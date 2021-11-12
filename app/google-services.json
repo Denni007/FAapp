@@ -1,0 +1,40 @@
+  {
+  "project_info": {
+    "project_number": "707899012207",
+    "firebase_url": "https://demogtm-b73c5.firebaseio.com",
+    "project_id": "demogtm-b73c5",
+    "storage_bucket": "demogtm-b73c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707899012207:android:f057009a239a1e9619c99a",
+        "android_client_info": {
+          "package_name": "com.digdenny.appdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "clSetting user property: AVSPlatform, android_phone\n2021-07-08 21:17:12.714 1544-12933/com.google.android.gms V/FA-SVC: Setting user property: SegmentID, ALL\n2021-07-08 21:17:12.717 1544-12933/com.google.android.gms V/FA-SVC: Setting user property: IsUpdatedSchema, Yes\n2021-07-08 21:17:12.720 1544-12933/com.google.android.gms V/FA-SVC: Setting user property: SubscriptionStatus, SVOD\n2021-07-08 21:17:12.723 1544-12933/com.google.android.gms V/FA-SVC: Setting user property: SubscribedPackSKU, LIV Premium\n2021-07-08 21:17:12.726 1544-12933/com.google.android.gms V/FA-SVC: Setting user property: AppName, SonyLIV\n2021-07-08 21:17:12.729 1544-12933/com.google.android.gms V/FA-SVC: Setting user property: Platform, Android App\n2021-07-08 21:17:12.733 1544-12933/com.google.android.gms V/FA-SVC: Setting user property: DeviceName, generic_x86_arm\n2021-07-08 21:17:12.738 1544-12933/com.google.android.gms V/FA-SVC: Setting user property: multiProfileCategory, primary\n2021-07-08 21:17:12.740 1544-12933/com.google.android.gms V/FA-Sient_id": "707899012207-snim3pm9kmqokg850v8bvll3ivocvq8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3NNbVsf_9bpWCFaKqLMM8h04EPRoivlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707899012207-snim3pm9kmqokg850v8bvll3ivocvq8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
